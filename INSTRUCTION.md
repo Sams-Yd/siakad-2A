@@ -1,4 +1,4 @@
-# Panduan Kontribusi
+# Instruksi Pengerjaan
 
 Dokumen ini wajib dibaca sebelum mulai mengerjakan modul.
 
@@ -25,6 +25,8 @@ go run main.go
 ---
 
 ## 2. Workflow Git
+
+Note: Sebagai contoh saja, sesuaikan dengan modul yang dikerjakan
 
 ```bash
 # 1. Pastikan kamu berada di branch modulmu
